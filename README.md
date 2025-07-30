@@ -1,6 +1,5 @@
 # Language Translation Tool
 A simple Python-based language translation tool that translates text from one language to another using the Google Translate API.
-This project was built as part of my internship at @CodeAlpha.
 
 ## Features
 Translate text between multiple languages
