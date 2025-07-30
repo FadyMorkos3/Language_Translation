@@ -23,7 +23,7 @@ Run the script:
 python language_translation.py
 
 ## Project Status
-✅ Completed for CodeAlpha Internship - May 2025.
+✅ Completed - May 2025.
 
 Author
 Fady Morkos Farhan
